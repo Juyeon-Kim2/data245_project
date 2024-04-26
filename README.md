@@ -1,4 +1,3 @@
-# data245_project
 
 # Resume Update Recommendation System
 
